@@ -1,0 +1,56 @@
+[
+    {
+        "caption": "Karon (Near Patong), Phuket",
+        "description": "On a secluded cove against a canvas of sand and sea in Thailand, Le Méridien Phuket Beach Resort offers bold new discoveries with our top-rated facilities for land and water adventures, a rejuvenating spa, inspired cuisine and forward-thinking services that exceed our guests' desires. The resort's 416 rooms and 54 luxury suites blend the creative and the elemental with authentic Thai accents against a soothing tropical setting. Style coupled with superb amenities allows for a stay of limitless exploration and renewal on the beach. All rooms and suites at the Resort offer unique views. Sixty-seven percent (316) offer either pool or ocean views.",
+        "imageFile": "accom01",
+        "AccomId": 1,
+        "AccomName": "Le Méridien Phuket Beach Resort",
+        "price": 2546.0,
+        "rating": 2
+    },
+    {
+        "caption": " Tri-Trang Beach, Patong Patong Phuket",
+        "description": "Located on peaceful Tri-Trang Beach, Phuket Marriott Resort & Spa, Merlin Beach is 9.9 mi from Phuket Town and 1.9 mi from bustling Patong. This family-friendly resort offers 3 landscape swimming pools, 8 dining options, premium spa, kids club, recreational activities and private beach. Free WiFi is available in all rooms and throughout hotel's public areas.\r\nFeaturing modern décor, each room has a private balcony, a flat-screen TV and a safety deposit box. Some rooms come with direct access to the pool or beach. With a separate bathtub and shower, the private bathroom provides a hairdryer, slippers and THANN amenities.\r\n",
+        "imageFile": "accom02",
+        "AccomId": 2,
+        "AccomName": "Phuket Marriott Resort & Spa, Merlin Beach",
+        "price": 2133.0,
+        "rating": 4
+    },
+    {
+        "caption": "Kata Noi Road, Muang, Kata, Phuket, Thailand",
+        "description": "On a secluded cove against a canvas of sand and sea in Thailand, Le Méridien Phuket Beach Resort offers bold new discoveries with our top-rated facilities for land and water adventures, a rejuvenating spa, inspired cuisine and forward-thinking services that exceed our guests' desires. The resort's 416 rooms and 54 luxury suites blend the creative and the elemental with authentic Thai accents against a soothing tropical setting. Style coupled with superb amenities allows for a stay of limitless exploration and renewal on the beach. All rooms and suites at the Resort offer unique views. Sixty-seven percent (316) offer either pool or ocean views.",
+        "imageFile": "accom03",
+        "AccomId": 3,
+        "AccomName": "The shore at Katathani",
+        "price": 3500.0,
+        "rating": 3
+    },
+    {
+        "caption": "Bang Niang Beach, Khao Lak, Thailand, 82220 - SEE MAP",
+        "description": " ",
+        "imageFile": "accom04",
+        "AccomId": 4,
+        "AccomName": "La Vela Khao Lak",
+        "price": 2300.0,
+        "rating": 5
+    },
+    {
+        "caption": "79 Moo 3, Khuk Khak Beach, Khao Lak, Thailand, 82220",
+        "description": "",
+        "imageFile": "accom05",
+        "AccomId": 5,
+        "AccomName": "Devasom Khao Lak Beach Resort & Villas",
+        "price": 3000.0,
+        "rating": 2
+    },
+    {
+        "caption": "Bangmoung, Takuapa District, Phang Nga Province, Bangsak Beach, Khao Lak",
+        "description": "",
+        "imageFile": "accom06",
+        "AccomId": 6,
+        "AccomName": "Le Méridien Khao Lak Resort & Spa",
+        "price": 2100.0,
+        "rating": 3
+    }
+]
